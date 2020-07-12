@@ -1,0 +1,10 @@
+ckpt path: data/resnet3d_no_alpha/ckpt/ep_9__rc_0.57359067728224__total_val_loss_3625.34521484375.pth
+preds savepath: data/resnet3d_no_alpha/preds/ep_9__rc_0.57359067728224__total_val_loss_3625.34521484375.json
+DEVICE cuda
+Loading model from path: data/resnet3d_no_alpha/ckpt/ep_9__rc_0.57359067728224__total_val_loss_3625.34521484375.pth
+loading pretrained model r3d34_K_200ep.pth
+USING MODEL TYPE resnet3d ON DSET memento_frames
+Using test set
+METRICS {'rc': 0.57359067728224}
+Saving results
+rc: 0.57359067728224

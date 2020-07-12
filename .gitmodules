@@ -1,0 +1,6 @@
+[submodule "3D-ResNets-PyTorch"]
+	path = 3D-ResNets-PyTorch
+	url = https://github.com/a-newman/3D-ResNets-PyTorch
+[submodule "threed_resnets_pytorch"]
+	path = threed_resnets_pytorch
+	url = https://github.com/a-newman/3D-ResNets-PyTorch
